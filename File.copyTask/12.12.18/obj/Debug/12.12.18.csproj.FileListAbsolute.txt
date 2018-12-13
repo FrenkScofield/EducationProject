@@ -1,0 +1,11 @@
+E:\C#7TestProject\12.12.18\12.12.18\bin\Debug\12.12.18.exe.config
+E:\C#7TestProject\12.12.18\12.12.18\bin\Debug\12.12.18.exe
+E:\C#7TestProject\12.12.18\12.12.18\bin\Debug\12.12.18.pdb
+E:\C#7TestProject\12.12.18\12.12.18\obj\Debug\12.12.18.csprojAssemblyReference.cache
+E:\C#7TestProject\12.12.18\12.12.18\obj\Debug\_12._12._18.Form1.resources
+E:\C#7TestProject\12.12.18\12.12.18\obj\Debug\_12._12._18.Form2.resources
+E:\C#7TestProject\12.12.18\12.12.18\obj\Debug\_12._12._18.Properties.Resources.resources
+E:\C#7TestProject\12.12.18\12.12.18\obj\Debug\12.12.18.csproj.GenerateResource.cache
+E:\C#7TestProject\12.12.18\12.12.18\obj\Debug\12.12.18.csproj.CoreCompileInputs.cache
+E:\C#7TestProject\12.12.18\12.12.18\obj\Debug\12.12.18.exe
+E:\C#7TestProject\12.12.18\12.12.18\obj\Debug\12.12.18.pdb
